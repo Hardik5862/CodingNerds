@@ -1,0 +1,23 @@
+{
+  "name": "codingnerds",
+  "version": "1.0.0",
+  "description": "chat app built with node, mongodb, and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hardik5862/CodingNerds.git"
+  },
+  "author": "Hardik Sachan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hardik5862/CodingNerds/issues"
+  },
+  "homepage": "https://github.com/Hardik5862/CodingNerds#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
